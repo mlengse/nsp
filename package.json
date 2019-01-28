@@ -1,0 +1,27 @@
+{
+  "name": "nsp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlengse/nsp.git"
+  },
+  "author": "@mlengse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mlengse/nsp/issues"
+  },
+  "homepage": "https://github.com/mlengse/nsp#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "convert-excel-to-json": "^1.6.0",
+    "dotenv": "^6.2.0",
+    "log-update": "^2.3.0",
+    "node-cron": "^2.0.3",
+    "node-rest-client": "^3.1.0"
+  }
+}
